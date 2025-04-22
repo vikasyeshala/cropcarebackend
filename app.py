@@ -8,7 +8,7 @@ app = Flask(__name__)
 CORS(app)
 
 # OpenRouter API credentials
-OPENROUTER_API_KEY = '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'
+OPENROUTER_API_KEY = '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'
 OPENROUTER_API_URL = 'https://openrouter.ai/api/v1/chat/completions'
 
 # System prompt for crop recommendation
